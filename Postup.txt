@@ -1,0 +1,38 @@
+STAŽENÍ DAT Z KLÁVESNICE
+------------------------
+
+!! V hostitelském systému nesmí žádný program ani služba 
+'' používat COM port 
+
+1) Nainstalovat VmWare
+2) V něm nainstalovat WinXP SP3
+3) Ve WinXP nainstalovat MidWin
+4) Spustit aplikaci MidWin a vyčkat na inicializaci klávesnice
+5) V menu zvolit Options a nastavit způsob komunikace na COM port
+6) RS232 9600 baudů
+7) Kliknout na ikonku Upload (při inicializaci musí klávesnice probliknout všechny LED)
+8) File - Save
+
+
+NAHRÁNÍ DAT DO KLÁVESNICE
+-------------------------
+
+!! Ukončit VmWare
+
+1)  Nainstalovat aplikaci ChangeMe Utility
+2)  Při spuštění aplikace zvolit COM port
+2a) nebo v menu Options nastavit způsob komunikace na COM port
+3)  Otestovat komunikaci kliknutím na ikonku Autodetect
+3a) klávesnice musí při autodetekci probliknout všechny LED
+4)  V menu File - Open a vybrat dříve uložená data
+5)  Buď upravit nastavení a nebo rovnou kliknout na ikonku Update and Verify
+5a) při uploadu musí opět probliknout všechny LED na klávesnici
+6)  Hotovo
+
+
+Při otevření stažených dat se otevře okno s mapou klávesnice. 
+Toto okno se však ihned minimalizuje, proto nemusí být vidět.
+Stačí scollboxem posunout náhled v aplikaci směrem dolů a okno maximalizovat.
+Pro úpravu jednotlivých tlačítek stačí kliknout na kokrétní tlačítko a změnit hodnoty.
+Po úpravách samozřejmě opět kliknout na Update
+Defaultně se nastavují tlačítka ve vrstvě 1 (Layer 1, L1)
