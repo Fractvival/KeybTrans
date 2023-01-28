@@ -1,0 +1,2 @@
+# KeybTrans
+Nastavení klávesnic Translog
