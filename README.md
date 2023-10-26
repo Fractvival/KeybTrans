@@ -16,5 +16,7 @@ Nová verze je ve složce [NEW!](https://github.com/Fractvival/KeybTrans/tree/ma
 <br/>
 Žádná klávesa není opakovací a všechny se nachází ve vrstvě L1 a jazyk US
 <br/>
+Každá klávesa komunikuje pomocí RS232 (takže NE PS/2) a jde ji zpětně vyčíst v terminálu přímo v ChangeMe
 <br/>
+
 
