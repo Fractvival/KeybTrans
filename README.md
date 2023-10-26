@@ -1,5 +1,20 @@
 # KeybTrans
 Nastavení klávesnic Translog
 
+(Data klávesnice jsou ve složce Original)
+Ve složce Original je firmware kterým se aktualizovalo před úpravou!
 
-Data klávesnice jsou ve složce Original
+Nová úprava provedena dne 26.10.2023
+V nové verzi, můžeme ji nazvat verzí 1.1, jsou upraveny klávesy F1-F3 (posunuty o řádek nahoru) a
+přidány nové klávesy.
+Náhled kódů zde:
+<br/>
+<img src="PNG/keycode.png" loading="lazy" alt="…" width="374" height="276">
+<br/>
+Nová verze je ve složce [NEW!](https://github.com/Fractvival/KeybTrans/tree/main/NEW!)
+<br/>
+<br/>
+Žádná klávesa není opakovací a všechny se nachází ve vrstvě L1 a jazyk US
+<br/>
+<br/>
+
